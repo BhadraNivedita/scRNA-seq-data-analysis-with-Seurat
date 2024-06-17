@@ -1,6 +1,6 @@
 # scRNA-seq-data-analysis-with-Seurat
 
-A step-by-step tutorial on how to use Seurat for single-cell RNA sequencing (scRNA-seq) data analysis. This tutorial will cover data preprocessing, normalization, clustering, and visualization using Seurat.
+Seurat for single-cell RNA sequencing (scRNA-seq) data analysis. The jupyter notebook covers data preprocessing, normalization, clustering, and visualization using Seurat.
 
 1.**Installation of Seurat**
 
