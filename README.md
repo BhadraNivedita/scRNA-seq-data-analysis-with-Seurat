@@ -9,5 +9,5 @@ A step-by-step tutorial on how to use Seurat for single-cell RNA sequencing (scR
 5.Clustering cells
 6.Non-linear dimensionality reduction (UMAP/t-SNE)
 7.Finding differentially expressed genes
-Seurat provides a comprehensive framework for scRNA-seq data analysis, it allows to perform a wide range of analyses from preprocessing to visualization. For more advanced usage and for further details, refer to the Seurat documentation(https://satijalab.org/seurat/).
+Seurat provides a comprehensive framework for scRNA-seq data analysis, it allows to perform a wide range of analyses from preprocessing to visualization. For more advanced usage and for further details, refer to the Seurat documentation (https://satijalab.org/seurat/).
 
